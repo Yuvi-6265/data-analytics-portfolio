@@ -20,6 +20,9 @@ Welcome to my portfolio! I am an aspiring Data Analyst with skills in:
 - Loan approval Project
   https://github.com/Yuvi-6265/Loan-approval
 
+- Spotify data analytics
+  https://github.com/Yuvi-6265/Spotify_project
+
 ## Resume
 
 Upload your resume (PDF) to this repository and add its link here.
