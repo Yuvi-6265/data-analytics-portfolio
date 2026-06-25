@@ -15,9 +15,10 @@ Welcome to my portfolio! I am an aspiring Data Analyst with skills in:
 ## Projects
 
 - Zomato Analytics Dashboard
-  https://github.com/YourUsername/Zomato-Analytics
+  https://github.com/Yuvi-6265/Zomato-analytics
 
-- (Add more projects here)
+- Loan approval Project
+  https://github.com/Yuvi-6265/Loan-approval
 
 ## Resume
 
@@ -26,10 +27,10 @@ Upload your resume (PDF) to this repository and add its link here.
 ## Contact
 
 LinkedIn:
-https://linkedin.com/in/YourLinkedIn
+https://www.linkedin.com/in/yuvraj-khanna-55ab4616b/
 
 Email:
 khannayuvraj972gmail.com
 
 GitHub:
-https://github.com/YourUsername
+https://github.com/Yuvi-6265
